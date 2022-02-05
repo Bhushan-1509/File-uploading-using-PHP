@@ -1,0 +1,23 @@
+
+.mainDiv {
+    margin-top: 58px;
+    width: 80%;
+    margin-left: 79px;
+}
+
+.uploadButton{
+
+    /* background-color: rgb(53, 53, 201); */
+
+        color: black;
+        font-size: larger;
+    
+}
+
+
+.submitButton{
+    
+    margin-left: 38%;
+    margin-top: 4%;
+    width: 19%;
+}
